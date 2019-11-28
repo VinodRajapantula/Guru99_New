@@ -1,0 +1,18 @@
+2019-11-28 12:40:52.546 [TestNG-tests-1] INFO  com.epam.utilities.CreateLogger - Browser got initiated
+2019-11-28 12:40:52.549 [TestNG-tests-1] INFO  com.epam.utilities.CreateLogger - Accessing the url
+2019-11-28 12:40:53.674 [TestNG-tests-1] INFO  com.epam.utilities.CreateLogger - Browser maximizing
+2019-11-28 12:40:54.206 [TestNG-tests-1] INFO  com.epam.utilities.CreateLogger - CreateNewCustomer_002 - Started
+2019-11-28 12:40:57.458 [TestNG-tests-1] INFO  com.epam.utilities.CreateLogger - User name entered as: mngr233931
+2019-11-28 12:40:57.526 [TestNG-tests-1] INFO  com.epam.utilities.CreateLogger - Password entered
+2019-11-28 12:40:59.149 [TestNG-tests-1] INFO  com.epam.utilities.CreateLogger - Clicked on submit button
+2019-11-28 12:41:00.272 [TestNG-tests-1] INFO  com.epam.utilities.CreateLogger - Clicked on New Cutomer Link
+2019-11-28 12:41:00.397 [TestNG-tests-1] INFO  com.epam.utilities.CreateLogger - Clicked on male radio button
+2019-11-28 12:41:00.620 [TestNG-tests-1] INFO  com.epam.utilities.CreateLogger - Entered Address
+2019-11-28 12:41:00.693 [TestNG-tests-1] INFO  com.epam.utilities.CreateLogger - Entered city
+2019-11-28 12:41:00.760 [TestNG-tests-1] INFO  com.epam.utilities.CreateLogger - Entered state
+2019-11-28 12:41:00.834 [TestNG-tests-1] INFO  com.epam.utilities.CreateLogger - Entered pin
+2019-11-28 12:41:00.905 [TestNG-tests-1] INFO  com.epam.utilities.CreateLogger - Entered mobile
+2019-11-28 12:41:01.017 [TestNG-tests-1] INFO  com.epam.utilities.CreateLogger - Entered Email
+2019-11-28 12:41:01.080 [TestNG-tests-1] INFO  com.epam.utilities.CreateLogger - Entered password
+2019-11-28 12:41:01.850 [TestNG-tests-1] INFO  com.epam.utilities.CreateLogger - Clicked on submitt button
+2019-11-28 12:41:02.516 [TestNG-tests-1] INFO  com.epam.utilities.CreateLogger - User Registration is failed for fffff
